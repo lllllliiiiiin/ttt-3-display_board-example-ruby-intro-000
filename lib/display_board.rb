@@ -1,4 +1,4 @@
-def welcome to tic tac Toe
+def display_board
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
